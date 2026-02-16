@@ -56,5 +56,5 @@ correlations, and visualizes results with Matplotlib scatter plots.
 
 ## Author
 [Sravani Peddi]  
-[peddisravani087@gmail.com]  
+sravanipeddi23@gmail.com
 
