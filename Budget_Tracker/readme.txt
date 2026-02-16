@@ -63,4 +63,4 @@ Category-based analytics
 
 Author
 [Sravani Peddi]  
-[peddisravani087@gmail.com]  
+sravanipeddi23@gmail.com
