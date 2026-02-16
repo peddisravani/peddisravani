@@ -1,1 +1,75 @@
+🛒 Smart Product Discovery
+A machine-learning powered web application that helps users discover similar products using embeddings, cosine similarity, and a modern web interface.
+🔍 This project allows users to upload product information, process it using ML models, and get intelligent product recommendations based on semantic similarity.
 
+
+🚀 Features
+🤖 ML-based product similarity matching
+🧮 Vector embeddings + cosine similarity
+🗂 Clean UI for searching & viewing product matches
+🐍 Python backend using Flask
+📝 Data preprocessing pipeline
+🔗 API endpoints for recommendation retrieval
+⚡ Fast and scalable architecture
+🎯 Real-time product suggestions
+
+smart-product-discovery/
+├── app.py              # Flask API backend
+├── database.py         # Database connection & helpers
+├── model.py            # ML model for embeddings and similarity
+├── preprocess.py       # Data cleaning and preprocessing
+├── recommend.py        # Core recommendation logic
+├── index.js            # Frontend interaction logic
+├── ProductCard.js      # UI component for displaying product results
+├── next.config.js      # Next.js config
+├── package.json        # Node.js dependencies
+├── requirements.txt    # Python dependencies
+└── README.md           # Project documentation
+
+
+📦 Installation
+1. Clone the repository
+        git clone https://github.com/yourusername/smart-product-discovery.git
+        cd smart-product-discovery
+2. (Optional) Create a virtual environment
+        python -m venv venv
+        source venv/bin/activate         # Mac/Linux
+3. Install Python dependencies
+        pip install -r requirements.txt
+4. Install Node dependencies
+        npm install
+5. Run the backend
+        python app.py
+6. Run the frontend
+        npm run dev
+7. Open the application
+        Visit:
+        http://localhost:3000
+
+🧠 Technologies Used
+Backend
+Python 3.x
+Flask
+Scikit-learn
+Pandas
+NumPy
+Frontend
+Next.js
+React
+JavaScript
+Database
+SQLite / JSON storage (depending on version)
+
+
+🔧 Future Enhancements
+📊 Product ranking system
+🧵 Multi-feature similarity scoring
+📦 Product categories & filters
+🖼️ Image-based product matching
+🌐 Deployment with Docker + AWS
+🔑 User accounts & saved searches
+
+
+👩‍💻 Author
+Sravani Peddi
+sravanipeddi23@gmail.com
